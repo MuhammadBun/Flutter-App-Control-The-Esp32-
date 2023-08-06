@@ -1,6 +1,6 @@
 # controller_flutter_project
 
-This is an App to control a DC motor throgh the access point 
+This app allows you to control a DC motor through an access point.
 
 ## From App : 
  <table>
